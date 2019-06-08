@@ -1,4 +1,4 @@
-From The Odin Project's curriculum
+From The Odin Project's curriculum:
 https://www.theodinproject.com/courses/ruby-programming
 
 Play Tic Tac Toe (hotseat):
