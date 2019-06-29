@@ -6,3 +6,6 @@ https://repl.it/@BenFowler/Tic-Tac-Toe
 
 Play Mastermind (computer player is probably unbeatable if you play as codemaker):
 https://repl.it/@BenFowler/Mastermind
+
+Play Hangman:
+https://repl.it/@BenFowler/Hangman
