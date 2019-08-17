@@ -124,5 +124,5 @@ class Game
     end
 end
 
-game = Game.new
-game.play
+#game = Game.new
+#game.play
